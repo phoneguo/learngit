@@ -3,4 +3,10 @@ git is a free software distributed under the GPL.
 thank you! ok,let's go on !!!
 Git tracks changes of files.
 
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick and simple.
+
+
+>>>>>>> feature1
