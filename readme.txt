@@ -7,3 +7,7 @@ Creating a new branch is quick and simple.
 add merge
 
 add second merge!
+
+test bug branch
+hehe
+
