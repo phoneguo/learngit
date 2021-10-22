@@ -1,2 +1,7 @@
 i love you ,lu! hehehe
-hehehe
+<<<<<<< HEAD
+i love you ,lu!hehehe
+=======
+i love you ,lu! hehehe
+
+>>>>>>> feature1
