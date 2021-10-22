@@ -7,3 +7,5 @@ Creating a new branch is quick and simple.
 add merge
 
 add second merge!
+
+Creating a new branch is quick & simple.
